@@ -1,4 +1,4 @@
-# Epileptic-Seizure-Detection
+# Epileptic-Seizure-Recognition
 
 ## Concept Used
 Binary Classification of EEG signal data tried with multiple ML algorithms like Gradient Boost, Decision Tree, Random Forest, and Extreme Random Forest Classification. 
